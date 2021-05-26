@@ -1,0 +1,2 @@
+uploadDir: D://fileUpload/
+downloadPre: "http://localhost:8080/downloadImage/"
